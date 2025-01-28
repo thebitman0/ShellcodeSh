@@ -1,2 +1,2 @@
 # Info
-Assembly instructions to start a /bin/sh shell.
+x86 assembly instructions to start a /bin/sh shell.
