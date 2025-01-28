@@ -1,2 +1,2 @@
 # Info
-Shellcode to start a /bin/sh shell.
+Assembly instructions to start a /bin/sh shell.
