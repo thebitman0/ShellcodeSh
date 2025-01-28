@@ -1,5 +1,5 @@
 section .data
-    ip db 192, 168, 0, 100
+    ip db 127, 0, 0, 1
     port dw 0x5c11
 
 section .text
